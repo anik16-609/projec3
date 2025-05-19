@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+.merriweather{
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/*share me */
+.sharefont{
+    font-size: 48px;
+    font-weight: 800;
+}
+/* header */
+.wish{
+    text-align: center;
+    color:rgb(255, 255, 255) ;
+    padding-top:230px;
+    font-weight: 400;
+    font-size: 32px;
+}
+.bannerfirst{
+    background-image: linear-gradient(rgb(7, 2, 17), rgba(7, 2, 17, 0)),url(images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 600px;
+    margin:50px 270px 80px 270px;
+    box-shadow:20px 0 30px rgba(0, 0, 0, 0.3);
+    border-radius: 16px;
+}
+/* main section 1 */
+.first{
+    text-align: center;
+ 
+}
+.again_wish{
+   max-width: 700px;
+   padding-top: 20px;
+   padding-bottom: 40px;
+   padding-left: 400px;
+   padding-right: 400px;
+}
+.cred{
+    font-size: 88px;
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+       padding-left: 600px;
+    padding-right: 600px;
+}
+.scred{
+    font-size:24px;
+    font-weight: 500;
+    color: rgb(255, 0, 0);
+    padding-top: 10px;
+    padding-bottom: 10px;
+       padding-left: 600px;
+    padding-right: 600px;
+}
+.Clebration{
+    image:url(images/Group\ 70.png);
+}
